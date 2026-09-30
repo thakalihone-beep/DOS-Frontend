@@ -93,7 +93,7 @@
         <div
             class="absolute top-0 left-1/2 -translate-x-1/2
                 w-[600px] h-[300px]
-                bg-indigo-500/20 blur-[120px] rounded-full">
+                bg-emerald-500/20 blur-[120px] rounded-full">
         </div>
 
         <div class="relative max-w-7xl mx-auto px-6 py-24 lg:py-32">
@@ -108,9 +108,9 @@
                         class="inline-flex items-center gap-2
                             px-4 py-2 mb-6
                             rounded-full
-                            bg-indigo-500/10
-                            border border-indigo-500/20
-                            text-indigo-400 text-sm">
+                            bg-emerald-500/10
+                            border border-emerald-500/20
+                            text-emerald-400 text-sm">
 
                         <span class="w-2 h-2 bg-green-400 rounded-full"></span>
 
@@ -122,7 +122,7 @@
                     <h1 class="text-5xl lg:text-7xl font-bold leading-tight">
 
                         Know where your
-                        <span class="text-indigo-400">
+                        <span class="text-emerald-400">
                             time goes.
                         </span>
 
@@ -141,7 +141,7 @@
                     <div class="mt-8 flex flex-wrap gap-4">
 
                         <a href="#download"
-                            class="px-6 py-3 bg-indigo-500 hover:bg-indigo-600
+                            class="px-6 py-3 bg-emerald-500 hover:bg-emerald-600
                               rounded-xl font-semibold transition">
 
                             Start Tracking →
@@ -246,7 +246,7 @@
                                 <div class="h-2 bg-gray-800 rounded-full">
 
                                     <div
-                                        class="h-2 bg-indigo-500
+                                        class="h-2 bg-emerald-500
                                             rounded-full w-[80%]">
                                     </div>
 
@@ -274,7 +274,7 @@
                                 <div class="h-2 bg-gray-800 rounded-full">
 
                                     <div
-                                        class="h-2 bg-indigo-500/80
+                                        class="h-2 bg-emerald-500/80
                                             rounded-full w-[65%]">
                                     </div>
 
@@ -302,7 +302,7 @@
                                 <div class="h-2 bg-gray-800 rounded-full">
 
                                     <div
-                                        class="h-2 bg-indigo-500/60
+                                        class="h-2 bg-emerald-500/60
                                             rounded-full w-[40%]">
                                     </div>
 
@@ -330,7 +330,7 @@
                                 <div class="h-2 bg-gray-800 rounded-full">
 
                                     <div
-                                        class="h-2 bg-indigo-500/40
+                                        class="h-2 bg-emerald-500/40
                                             rounded-full w-[25%]">
                                     </div>
 
@@ -380,269 +380,9 @@
     </section>
 
 
-    <!-- ================= FEATURES ================= -->
 
-    <section id="features" class="border-t border-gray-800">
 
-        <div class="max-w-7xl mx-auto px-6 py-24">
 
-            <div class="text-center max-w-2xl mx-auto">
-
-                <p class="text-indigo-400 font-semibold">
-                    FEATURES
-                </p>
-
-                <h2 class="text-4xl font-bold mt-3">
-                    Everything you do, understood.
-                </h2>
-
-                <p class="mt-4 text-gray-400">
-                    DeviceTime gives you a complete picture of your
-                    digital activity.
-                </p>
-
-            </div>
-
-
-            <div class="grid md:grid-cols-3 gap-6 mt-16">
-
-                <!-- Feature -->
-
-                <div
-                    class="p-8 bg-card border border-gray-800
-                        rounded-2xl hover:border-gray-700 transition">
-
-                    <div class="text-3xl mb-5">
-                        🖥️
-                    </div>
-
-                    <h3 class="text-xl font-semibold">
-                        Application Tracking
-                    </h3>
-
-                    <p class="text-gray-400 mt-3 leading-relaxed">
-                        Know exactly how much time you spend using
-                        every application on your computer.
-                    </p>
-
-                </div>
-
-
-                <div
-                    class="p-8 bg-card border border-gray-800
-                        rounded-2xl hover:border-gray-700 transition">
-
-                    <div class="text-3xl mb-5">
-                        🌐
-                    </div>
-
-                    <h3 class="text-xl font-semibold">
-                        Website Tracking
-                    </h3>
-
-                    <p class="text-gray-400 mt-3 leading-relaxed">
-                        Understand which websites consume most of
-                        your digital time.
-                    </p>
-
-                </div>
-
-
-                <div
-                    class="p-8 bg-card border border-gray-800
-                        rounded-2xl hover:border-gray-700 transition">
-
-                    <div class="text-3xl mb-5">
-                        📊
-                    </div>
-
-                    <h3 class="text-xl font-semibold">
-                        Analytics
-                    </h3>
-
-                    <p class="text-gray-400 mt-3 leading-relaxed">
-                        Turn raw activity data into useful charts,
-                        statistics, and reports.
-                    </p>
-
-                </div>
-
-
-                <div
-                    class="p-8 bg-card border border-gray-800
-                        rounded-2xl hover:border-gray-700 transition">
-
-                    <div class="text-3xl mb-5">
-                        ⏱️
-                    </div>
-
-                    <h3 class="text-xl font-semibold">
-                        Activity Timeline
-                    </h3>
-
-                    <p class="text-gray-400 mt-3 leading-relaxed">
-                        See exactly when your computer activity
-                        happened throughout the day.
-                    </p>
-
-                </div>
-
-
-                <div
-                    class="p-8 bg-card border border-gray-800
-                        rounded-2xl hover:border-gray-700 transition">
-
-                    <div class="text-3xl mb-5">
-                        🎯
-                    </div>
-
-                    <h3 class="text-xl font-semibold">
-                        Goals
-                    </h3>
-
-                    <p class="text-gray-400 mt-3 leading-relaxed">
-                        Set goals and compare your actual usage
-                        against them.
-                    </p>
-
-                </div>
-
-
-                <div id="privacy"
-                    class="p-8 bg-card border border-gray-800
-                        rounded-2xl hover:border-gray-700 transition">
-
-                    <div class="text-3xl mb-5">
-                        🔒
-                    </div>
-
-                    <h3 class="text-xl font-semibold">
-                        Privacy Focused
-                    </h3>
-
-                    <p class="text-gray-400 mt-3 leading-relaxed">
-                        Your activity data is collected through your
-                        own DeviceTime Agent and account.
-                    </p>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </section>
-
-
-    <!-- ================= HOW IT WORKS ================= -->
-
-    <section id="how-it-works" class="border-t border-gray-800 bg-gray-950">
-
-        <div class="max-w-7xl mx-auto px-6 py-24">
-
-            <div class="text-center">
-
-                <p class="text-indigo-400 font-semibold">
-                    HOW IT WORKS
-                </p>
-
-                <h2 class="text-4xl font-bold mt-3">
-                    From your computer to your dashboard.
-                </h2>
-
-            </div>
-
-
-            <div class="grid md:grid-cols-3 gap-8 mt-16">
-
-                <!-- Step 1 -->
-
-                <div class="text-center">
-
-                    <div
-                        class="w-16 h-16 mx-auto
-                            rounded-2xl
-                            bg-indigo-500/10
-                            border border-indigo-500/30
-                            flex items-center justify-center
-                            text-indigo-400 text-xl font-bold">
-
-                        01
-
-                    </div>
-
-                    <h3 class="text-xl font-semibold mt-6">
-                        Install the Agent
-                    </h3>
-
-                    <p class="text-gray-400 mt-3">
-                        Install DeviceTime Agent on your computer
-                        and connect it to your account.
-                    </p>
-
-                </div>
-
-
-                <!-- Step 2 -->
-
-                <div class="text-center">
-
-                    <div
-                        class="w-16 h-16 mx-auto
-                            rounded-2xl
-                            bg-indigo-500/10
-                            border border-indigo-500/30
-                            flex items-center justify-center
-                            text-indigo-400 text-xl font-bold">
-
-                        02
-
-                    </div>
-
-                    <h3 class="text-xl font-semibold mt-6">
-                        Track Activity
-                    </h3>
-
-                    <p class="text-gray-400 mt-3">
-                        The agent collects activity information and
-                        securely sends it to the Laravel API.
-                    </p>
-
-                </div>
-
-
-                <!-- Step 3 -->
-
-                <div class="text-center">
-
-                    <div
-                        class="w-16 h-16 mx-auto
-                            rounded-2xl
-                            bg-indigo-500/10
-                            border border-indigo-500/30
-                            flex items-center justify-center
-                            text-indigo-400 text-xl font-bold">
-
-                        03
-
-                    </div>
-
-                    <h3 class="text-xl font-semibold mt-6">
-                        Understand Your Time
-                    </h3>
-
-                    <p class="text-gray-400 mt-3">
-                        Your dashboard transforms activity data
-                        into useful analytics and insights.
-                    </p>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </section>
 
 
     <!-- ================= ARCHITECTURE ================= -->
@@ -651,7 +391,7 @@
 
         <div class="max-w-5xl mx-auto px-6 py-24 text-center">
 
-            <p class="text-indigo-400 font-semibold">
+            <p class="text-emerald-400 font-semibold">
                 SIMPLE ARCHITECTURE
             </p>
 
@@ -716,7 +456,7 @@
 
                 <a href="#"
                     class="inline-block px-8 py-4
-                      bg-indigo-500 hover:bg-indigo-600
+                      bg-emerald-500 hover:bg-emerald-600
                       rounded-xl font-semibold transition">
 
                     Download DeviceTime Agent →
@@ -744,7 +484,7 @@
                     <div class="flex items-center gap-3">
 
                         <div
-                            class="w-8 h-8 bg-indigo-500
+                            class="w-8 h-8 bg-emerald-500
                                 rounded-lg flex items-center
                                 justify-center font-bold">
 
